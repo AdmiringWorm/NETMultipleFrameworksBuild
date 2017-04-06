@@ -60,6 +60,6 @@
 
   <!-- Fail the build if no framework is specified -->
   <Target Name="BeforeCompile">
-    <Error Text="The NetFramework property haven't been set'" Condition="'$(NetFramework)' == ''" />
+    <Error Text="The NetFramework property haven't been set" Condition="'$(NetFramework)' == ''" />
   </Target>
 </Project>
