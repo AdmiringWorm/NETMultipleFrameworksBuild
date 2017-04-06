@@ -1,0 +1,9 @@
+D:\Docs\git\MyProjects\progs\MultipleFrameworksDemo\MultipleFrameworksDemo\bin\Debug\NET35\MultipleFrameworksDemo.exe
+D:\Docs\git\MyProjects\progs\MultipleFrameworksDemo\MultipleFrameworksDemo\bin\Debug\NET35\MultipleFrameworksDemo.pdb
+D:\Docs\git\MyProjects\progs\MultipleFrameworksDemo\MultipleFrameworksDemo\obj\Debug\MultipleFrameworksDemo.csprojResolveAssemblyReference.cache
+D:\Docs\git\MyProjects\progs\MultipleFrameworksDemo\MultipleFrameworksDemo\obj\Debug\MultipleFrameworksDemo.exe
+D:\Docs\git\MyProjects\progs\MultipleFrameworksDemo\MultipleFrameworksDemo\obj\Debug\MultipleFrameworksDemo.pdb
+D:\Docs\git\MyProjects\progs\MultipleFrameworksDemo\MultipleFrameworksDemo\bin\Debug\NET40\MultipleFrameworksDemo.exe
+D:\Docs\git\MyProjects\progs\MultipleFrameworksDemo\MultipleFrameworksDemo\bin\Debug\NET40\MultipleFrameworksDemo.pdb
+D:\Docs\git\MyProjects\progs\MultipleFrameworksDemo\MultipleFrameworksDemo\bin\Debug\NET45\MultipleFrameworksDemo.exe
+D:\Docs\git\MyProjects\progs\MultipleFrameworksDemo\MultipleFrameworksDemo\bin\Debug\NET45\MultipleFrameworksDemo.pdb
