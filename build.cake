@@ -24,6 +24,13 @@ Task("Build-NET45")
         .WithTarget("Rebuild")); // Important, otherwise it will reuse build from .NET 3.5
 });
 
+Task("Build-That-Fails")
+    .Does(() =>
+{
+    MSBuild("./MultipleFrameworksDemo.sln", new MSBuildSettings()
+        .WithTarget("Rebuild"));
+});
+
 Task("Default")
     .IsDependentOn("Build-NET35")
     .IsDependentOn("Build-NET40")
